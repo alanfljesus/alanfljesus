@@ -13,7 +13,7 @@
   <img align="center" title="JavaScript" alt="Alan-Js" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
   <img align="center" title="HTML5" alt="Alan-HTML" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg">
   <img align="center" title="CSS3" alt="Alan-CSS" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg">  
-   <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:50px;" 
+   <img align="right" alt="Luffy-pic" height="150" width="150" style="border-radius:50px;" 
   src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
   </div>
     
