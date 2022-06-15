@@ -14,6 +14,10 @@
   <img align="center" title="HTML5" alt="Alan-HTML" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg">
   <img align="center" title="CSS3" alt="Alan-CSS" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg">  
   <img align="center" title="JavaScript" alt="Alan-Js" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
+  <img align="center" title="Node.js" alt="Alan-Node.JS" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
+  <img align="center" title="ReactJs" alt="Alan-ReactJs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"> 
+    
+   
    <img align="right" alt="Luffy-pic" height="150" width="150" style="border-radius:50px;" 
   src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
   </div>
@@ -22,10 +26,10 @@
  ### Tenho interesse 
  
   <div style="display: inline_block">
-   <img align="center" title="Node.js" alt="Alan-Node.JS" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
-   <img align="center" title="Bootstrap" alt="Alan-Bootstrap" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg">
-   <img align="center" title="TypeScript" alt="Alan-TypeScript" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
-   <img align="center" title="ReactJs" alt="Alan-ReactJs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"> 
+  <img align="center" title="Bootstrap" alt="Alan-Bootstrap" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg">
+  <img align="center" title="TypeScript" alt="Alan-TypeScript" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
+  <img align="center" title="React Native" alt="Alan-React-Native" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg"> 
+    
   </div>
 
   ##
