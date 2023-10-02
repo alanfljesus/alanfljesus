@@ -8,18 +8,8 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfljesus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ### Desenvolvedor Front-End, estudante do 3º semestre de Análise e Desenvolvimento de Sistemas
-  
- ## Tecnologias
-  
-  <div style="display: inline_block">
-  <img align="center" title="JavaScript" alt="Alan-Js" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" title="TypeScript" alt="Alan-TypeScript" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
-  <img align="center" title="Node.js" alt="Alan-Node.JS" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
-  <img align="center" title="ReactJs" alt="Alan-ReactJs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"> 
-  <img align="center" title="NextJs" alt="Alan-NextJs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg"> 
-  </div>
-    
+  ### Desenvolvedor SAP ABAP, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas
+
   <div style="display: inline_block">
     
   </div>
@@ -29,9 +19,6 @@
   <div> 
 <a href = "mailto:alanfljesus@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alanfelipejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
-  <!--[Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
     
 </div>
   
