@@ -8,7 +8,7 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfljesus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ### Desenvolvedor SAP ABAP, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas
+  ### Desenvolvedor SAP ABAP, graduado em Análise e Desenvolvimento de Sistemas
 
   <div style="display: inline_block">
     
